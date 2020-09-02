@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+    <string name="search">hint</string>
+    <string name="favorite_text">FAVORITE</string>
+    <string name="unfavorite_text">Unfavorite</string>
+    <string name="reminder">Reminder</string>
+    <string name="daily">Daily Reminder</string>
+    <string name="alarm">Daily Alarm Reminder at 8 AM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="tab_text_3">Setting</string>
+    <string name="content_tab_text">This is Tab</string>
+    <string name="search_user_follower">Search User Follower</string>
+    <string name="search_user_following">Search User Following</string>
+</resources>
